@@ -4,6 +4,7 @@
 
 ----------
 
+![image](https://github.com/Goddreamwt/Solidity/blob/master/learn/Voting/demo.gif)
 
 ## 安装所需工具
 
